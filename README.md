@@ -1,4 +1,4 @@
-     ![Calculator](https://raw.githubusercontent.com/Software86/Calculator/master/CalculatorThumb.png)
+![Calculator](https://raw.githubusercontent.com/Software86/Calculator/master/CalculatorThumb.png)
 
 # Kalkylator
 Grundläggande aritmetik i Java
