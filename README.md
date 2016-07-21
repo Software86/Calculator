@@ -21,6 +21,6 @@ Källkoden finns i /src
 # Lite om algoritmen
 * Gör uträning varje gång + - / * knapparna används (förutom första gången efter återställning eller start)
 * Hämtar siffrorna från textFältet (sträng), omvandlar till BigDecimal, genomför uträkningen och därefter omvandlar resultatet till en     sträng för att visa i textfältet.
-* Kommer ihåg resultatet för längre uträkningar
+* Kommer ihåg senaste resultatet för längre uträkningar
 * Max 20 siffror
 * Justerar storleken på siffrorna efter behov
