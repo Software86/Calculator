@@ -1,7 +1,9 @@
 ![Calculator](https://raw.githubusercontent.com/Software86/Calculator/master/CalculatorThumb.png)
 
-# Kalkylator
-Grundläggande aritmetik i Java. Körbar .jar fil finns i /dist, källkoden(kommentarer och kod på engelska) finns i /src
+# Kalkylator 
+### Grundläggande aritmetik i Java. 
+* Körbar .jar fil finns i /dist 
+* Källkoden finns i /src (kommentarer och kod på engelska)
 
 ## Funktioner
 * Multiplikation
