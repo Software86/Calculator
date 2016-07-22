@@ -92,6 +92,7 @@ public class Calculator {
                     textfield.setText(result);
                     firstNumber = result;
                     lastOperation = input;
+                    adjustDigitsSize();
                     reset(false);
                 }
                 break;
