@@ -2,8 +2,7 @@
 
 # Kalkylator
 Grundläggande aritmetik i Java.
-(Körbar .jar fil finns i /dist.
-Källkoden finns i /src)
+(körbar .jar fil finns i /dist, källkoden finns i /src)
 
 ## Funktioner
 * Multiplikation
