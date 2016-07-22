@@ -24,4 +24,4 @@
 * Kommer ihåg senaste resultatet för längre uträkningar
 * Max 20 siffror
 * Justerar storleken på siffrorna efter behov
-* Avrundar decimaltal till närmaste heltal
+* Avrundar decimaltalen 'half-down'
